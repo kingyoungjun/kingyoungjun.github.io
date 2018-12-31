@@ -1,18 +1,22 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<head>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-8924322889923495",
-    enable_page_level_ads: true
-  });
-</script>
-	</head>
-	<body><h1>YEAH SANDWICHES</h1>
-	<img src="http://bit.ly/RhrMEn" />
-		<p>I like eggs.</p>
-		<p>And ham!</p>
-		<p>But mostly sandwiches.</p>
-	</body>
+            (adsbygoogle = window.adsbygoogle || []).push({google_ad_client: "ca-pub-8924322889923495", enable_page_level_ads: true});
+        </script>
+</head>
+<body>
+<h1>YEAH SANDWICHES</h1>
+<img src="http://bit.ly/RhrMEn"/>
+<p>
+	I like eggs.
+</p>
+<p>
+	And ham!
+</p>
+<p>
+	But mostly sandwiches.
+</p>
+</body>
 </html>
